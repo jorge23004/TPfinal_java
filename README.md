@@ -6,7 +6,7 @@ _Autor: Jorge Coll_
 
 ## Descripción
 
-Este proyecto es una aplicación de gestión de pedidos y artículos desarrollada en Java de Talento Tech. Permite crear, consultar, modificar y eliminar pedidos y artículos, utilizando buenas prácticas de programación orientada a objetos.
+Este proyecto es una aplicación de gestión de pedidos y artículos desarrollada en Java, en el curso de Talento Tech javaBackend. Permite crear, consultar, modificar y eliminar pedidos y artículos, utilizando buenas prácticas de programación orientada a objetos.
 
 ---
 
